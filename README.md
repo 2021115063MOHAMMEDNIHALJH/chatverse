@@ -22,7 +22,11 @@ To get started with Chatverse, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](https://drive.google.com/drive/folders/1j0h5oTpaIkKjGlxiRSUZAWDwV7YHdOUB?usp=drive_link)
+![Screenshot 1](LOGIN.png)
+![Screenshot 2](signup.png)
+![Screenshot 3](chatwindow.png)
+![Screenshot 4](settings.png)
+![Screenshot 5](mainactivity.png)
 
 ## Contributing
 
